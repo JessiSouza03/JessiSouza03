@@ -1,6 +1,4 @@
 # Olá, eu sou Jéssica!
-
-![Minha foto de perfil](jessi.jpg)
 Sou uma entusiasta da tecnologia e da programação, apaixonada por desafios e pela busca constante de conhecimento. Com 17 anos de idade, estou determinada a fazer minha marca no mundo da tecnologia. Atualmente, estou cursando o terceiro ano do Ensino Médio, onde tenho a sorte de integrar o Técnico em Informática para Internet, e estou ansiosa para ingressar no mercado de trabalho tecnológico.
 
 ### Experiência e Educação:

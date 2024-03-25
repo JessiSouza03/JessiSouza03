@@ -7,7 +7,7 @@ Sou uma entusiasta da tecnologia e da programação, apaixonada por desafios e p
 - Curso técnico de Informática para Internet na ETEC São Mateus;
 - Curso de Desenvolvimento FullStack com foco em Java no Instituto Proa.
 
-### Linguagens que tenho experiência:
+### Linguagens que tenho experiência(estudo):
 
 - Java
 - SQL

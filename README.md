@@ -1,5 +1,5 @@
 # Olá, eu sou a Jessi!
-Sou uma entusiasta da tecnologia e da programação, apaixonada por desafios e pela busca constante de conhecimento. Com 17 anos de idade, estou determinada a fazer minha marca no mundo da tecnologia. Sou formada em téc. em Informática para Internet e atualmente estou cursando Desenvolvimento FullStack no Instituto Proa. Estou ansiosa para ingressar no mercado de trabalho tecnológico e disposta a aprender o que for necessário.
+Sou uma entusiasta da tecnologia e da programação, apaixonada por desafios e pela busca constante de conhecimento. Com 18 anos de idade, estou determinada a fazer minha marca no mundo da tecnologia. Sou formada em téc. em Informática para Internet e atualmente estou cursando Desenvolvimento FullStack no Instituto Proa. Estou ansiosa para ingressar no mercado de trabalho tecnológico e disposta a aprender o que for necessário.
 
 ### Educação:
 
